@@ -1,2 +1,4 @@
 *.pt filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
+data/traffic_analysis.mov filter=lfs diff=lfs merge=lfs -text
+data/traffic_analysis.pt filter=lfs diff=lfs merge=lfs -text
